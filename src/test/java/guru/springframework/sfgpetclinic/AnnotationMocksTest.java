@@ -9,7 +9,7 @@ import java.util.Map;
 
 public class AnnotationMocksTest {
 
-    //2nd method creating mocks
+    //2nd method creating mocks with annotation
     @Mock
     Map<String, Object> mapMock;
 
